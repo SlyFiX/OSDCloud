@@ -1,4 +1,7 @@
 #================================================
+Write-Host  -ForegroundColor Green "https://github.com/AkosBakos/OSDCloud/"
+#================================================
+#================================================
 #   [PreOS] Update Module
 #================================================
 if ((Get-MyComputerModel) -match 'Virtual') {
